@@ -17,7 +17,7 @@ public class ArraysAscendingOrder {
 			  }
 			 
 		  }
-		  System.out.print(a[i]+","+" "+"hellow sdfsdfsdfsdfsdf");
+		  System.out.print(a[i]);
 		 
 	  }
 	  System.out.println("]");
