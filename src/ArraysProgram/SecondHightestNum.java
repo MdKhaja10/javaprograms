@@ -15,7 +15,8 @@ public class SecondHightestNum {
 			
 		}
 		return a[a.length-3];
-		
+
+		// here we can any number of program length
 	}
 	public static void main(String[] args) {
 		int a[]= {2,6,1,3,5,4,9,8,10,7};

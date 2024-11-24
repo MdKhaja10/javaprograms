@@ -9,6 +9,7 @@ public class ArraysAscendingOrder {
 	  int c[]= {6,3,7,4,0,1,2,5,7,3,1};
 	  for(int i=0;i<a.length;i++) {
 		  for(int j=i+1;j<a.length;j++) {
+			  //for descendeing order we use <
 			  if(a[i]>a[j]) {
 				  int temp=a[i];
 				  a[i]=a[j];
