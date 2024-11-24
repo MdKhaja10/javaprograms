@@ -19,6 +19,7 @@ public class SecondHightestNum {
 	public static void main(String[] args) {
 		int a[]= {1,4,8,9,10,4,9};
 		System.out.println("the second hightest number is "+highestnum(a));
+		System.out.println("this code is for testing the expression of the sum of the systems");
 	}
 
 }
