@@ -22,6 +22,7 @@ public class ArraysAscendingOrder {
 		 
 	  }
 	  System.out.println("]");
+	  System.out.println("newly added lines in to the system");
 	}
 
 }

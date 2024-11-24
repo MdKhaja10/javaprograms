@@ -7,6 +7,7 @@ public class MaxNuminArraay {
 		int max = a[0];
 		for (int i = 0; i < a.length; i++) {
 			//for lowest number we use <
+
 			if (a[i] > max) {
 				max = a[i];
 
@@ -15,6 +16,8 @@ public class MaxNuminArraay {
 		System.out.println(max);
          System.out.println("new code is added");
          
+		System.out.println("the maximum number in the code is "+ max);
+
 	}
 
 }
