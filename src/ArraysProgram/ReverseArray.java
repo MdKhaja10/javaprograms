@@ -7,6 +7,6 @@ public class ReverseArray {
 		}
              System.out.println("khaja");
 		System.out.println("mohammed");
-	}
+		System.out.println("ahmed");
 
 }
